@@ -7,7 +7,7 @@
 # Email: chris@mysociety.org; WWW: http://www.mysociety.org/
 #
 
-my $rcsid = ''; $rcsid .= '$Id: Makefile.PL,v 1.1 2006/11/03 14:49:14 chris Exp $';
+my $rcsid = ''; $rcsid .= '$Id: Makefile.PL,v 1.1 2006-11-03 14:49:14 chris Exp $';
 
 use strict;
 

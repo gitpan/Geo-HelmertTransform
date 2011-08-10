@@ -1,7 +1,7 @@
-t/simple.t
-lib/Geo/HelmertTransform.pm
 Makefile.PL
-README
-CHANGES
 MANIFEST
+CHANGES
+README
+lib/Geo/HelmertTransform.pm
+t/simple.t
 META.yml                                 Module meta-data (added by MakeMaker)
